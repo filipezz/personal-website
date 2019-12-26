@@ -12,6 +12,10 @@ function index() {
       <Helmet>
         <meta charSet="utf-8" />
         <title> Home | Filipe Marron</title>
+        <meta
+          name="google-site-verification"
+          content="kBiaj0PQmcxgt5hAoQppwTxZX_NdUMBh_jYvFEW__u8"
+        />
       </Helmet>
     </div>
   )
