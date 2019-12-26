@@ -1,23 +1,23 @@
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Twinder
+  subtitle: Clone do Tinder. Projeto proposto pela Rocketseat na Semana Omnistack 8.0. O app consumisse dados de perfis no Twitter. Desenvolvido com a stack React, React Native e Node.js
+  link: https://github.com/filipezz/Twinder
 
-- title: Basic Music
-  subtitle: Basic Music Player That lets you to play music
-  link: https://github.com/Mr404Found/Basic-Music-Player
+- title: AirCnC
+  subtitle: Clone do AirBnB. Projeto proposto pela Rocketseat na Semana Omnistack 9.0. Desenvolvido com a stack React, React Native e Node.js
+  link: https://github.com/filipezz/aircnc
 
-- title: Age Calculator
-  subtitle: Get Your Age
-  link: https://github.com/Mr404Found/AgeCalculator
+- title: Twitter Bot
+  subtitle: Um bot que tweeta o cardápio do Restaurante Universitário UFRJ regularmente
+  link: https://github.com/filipezz/twitter-bot
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Thanos Generator
+  subtitle: Site de pesquisa por falas do Thanos e gifs relacionados
+  link: https://github.com/filipezz/thanos-generator
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Star Wars Planets
+  subtitle: Interface que consome dados da API swapi.co/ Desafio proposto pela B2W para a vaga de Front-End
+  link: https://github.com/filipezz/starwars-planets
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Site Responsivo
+  subtitle: Um simples site feito com Bootstrap
+  link: https://github.com/filipezz/Site-responsivo
