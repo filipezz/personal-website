@@ -23,9 +23,9 @@ export default function info() {
         className="h4 mx-5 my-4 text-justify info"
         style={{ color: "#d3d3d3	" }}
       >
-        Desenvolvedor Front-end, apaixonado por inovação e tecnologia.{" "}
-        <span style={{ color: "#6272a4" }}>// E às vezes Back-end 😁</span>
-        <br />
+        Desenvolvedor Front-end,
+        <span style={{ color: "#6272a4" }}>// Às vezes Back-end 😁</span>{" "}
+        apaixonado por inovação e tecnologia. <br />
         Entusiasta de javascript, UX/UI e boas práticas. Sempre procurando
         alguma forma de botar o que aprendo em prática.
         <br />
