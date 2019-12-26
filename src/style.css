@@ -68,13 +68,13 @@ a:hover {
 
 @media (max-width: 500px) {
   .display-3 {
-    font-size: 3.4rem;
+    font-size: 3.4rem !important;
   }
   .code {
-    font-size: 1.9rem;
+    font-size: 1.9rem !important;
   }
   .info {
-    font-size: 1.3rem;
+    font-size: 1.3rem !important;
   }
   .mr-5,
   .mx-5 {
@@ -84,7 +84,7 @@ a:hover {
     display: flex;
   }
   .card p {
-    font-size: 1.1rem;
+    font-size: 1.1rem !important;
   }
   .card a {
     font-size: 0.9em;
