@@ -9,7 +9,7 @@ function card(props) {
           <h2 className="card-title">{cardTitle}</h2>
           <p className="card-text">{cardSubtitle}</p>
           <a href={link} className="card-link">
-            See
+            Ver repositório
           </a>
         </div>
       </div>
