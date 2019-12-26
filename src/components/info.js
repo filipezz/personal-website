@@ -36,7 +36,7 @@ export default function info() {
         compartilhar o que sabe. 🤖
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
-      <div className="h1 mt-5 footer ">
+      <div className="h1 mt-5 mb-5 footer ">
         <a className="mr-5 icon" href="https://twitter.com/filipeez">
           <Twitter />
         </a>
