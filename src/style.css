@@ -55,12 +55,12 @@ a:hover {
 
 .card p {
   font-size: 0.7em;
-  color: #ff8a00 !important;
+  color: #ccc !important;
 }
 
 .card a {
   font-size: 0.7em;
-  color: #50fa7b;
+  color: #50fa7b !important;
 }
 
 .card:hover {
