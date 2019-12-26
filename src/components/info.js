@@ -12,7 +12,7 @@ export default function info() {
       <div className="my-5"></div>
       <div className="display-3">
         <span style={{ color: "white" }}>Olá, eu sou o </span> <br />
-        &#40;&#123;<span style={{ color: "#ff992c" }}> Filipe </span>{" "}
+        &#40;&#123;<span style={{ color: "#ff992c" }}> Filipe </span>
         &#125;&#41;
       </div>
       <div className="h1 code mt-4 mb-3" style={{ color: "#8be9fd	" }}>
@@ -23,14 +23,17 @@ export default function info() {
         className="h4 mx-5 my-4 text-justify info"
         style={{ color: "#d3d3d3	" }}
       >
-        Desenvolvedor Front-end,
-        <span style={{ color: "#6272a4" }}>// Às vezes Back-end 😁</span>{" "}
-        apaixonado por inovação e tecnologia. <br />
-        Entusiasta de javascript, UX/UI e boas práticas. Sempre procurando
-        alguma forma de botar o que aprendo em prática.
+        Desenvolvedor Front-end.{" "}
+        <span style={{ color: "#6272a4" }}>// Às vezes Back-end 😁</span>
+        <br />
+        Apaixonado por inovação e tecnologia e criar coisas que facilitam a vida
+        das pessoas.
+        <br />
+        Entusiasta de Javascript e Node. Sempre procurando alguma forma de botar
+        o que aprendo em prática.
         <br />
         Sou um eterno estudante que adora programar, adora aprender e adora
-        compartilhar o que sabe.
+        compartilhar o que sabe. 🤖
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5 footer ">
