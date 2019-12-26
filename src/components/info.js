@@ -20,7 +20,7 @@ export default function info() {
         <span style={{ color: "white" }}>{"{"}</span>
       </div>
       <div
-        className="h4 mx-5 my-4 h3 text-justify info"
+        className="h4 mx-5 my-4 text-justify info"
         style={{ color: "#d3d3d3	" }}
       >
         Desenvolvedor Front-end, apaixonado por inovação e tecnologia.{" "}
@@ -33,7 +33,7 @@ export default function info() {
         compartilhar o que sabe.
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
-      <div className="h1 mt-5 ">
+      <div className="h1 mt-5 footer ">
         <a className="mr-5 icon" href="https://twitter.com/filipeez">
           <Twitter />
         </a>
