@@ -82,6 +82,7 @@ a:hover {
   }
   .footer {
     display: flex;
+    margin-bottom: 10px;
   }
   .card p {
     font-size: 1.1rem !important;
