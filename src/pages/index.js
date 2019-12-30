@@ -14,7 +14,7 @@ function index() {
         <title> Home | Filipe Marron</title>
         <meta
           name="google-site-verification"
-          content="kBiaj0PQmcxgt5hAoQppwTxZX_NdUMBh_jYvFEW__u8"
+          content="H_T5IHaO3wq5Bi1lvXlgJq105uGg7_JjTsxkDgNKnCw"
         />
       </Helmet>
     </div>
