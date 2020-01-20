@@ -1,23 +1,31 @@
 - title: Twinder
-  subtitle: Clone do Tinder. Projeto proposto pela Rocketseat na Semana Omnistack 8.0. O app consome dados de perfis no Twitter. Desenvolvido com a stack React, React Native e Node.js
+  subtitle: Clone do Tinder. Projeto proposto pela Rocketseat na Semana Omnistack 8.0. O app consome dados de perfis no Twitter. Desenvolvido com a stack React, React Native e Node.js.
   link: https://github.com/filipezz/Twinder
 
 - title: AirCnC
-  subtitle: Clone do AirBnB. Projeto proposto pela Rocketseat na Semana Omnistack 9.0. Desenvolvido com a stack React, React Native e Node.js
+  subtitle: Clone do AirBnB. Projeto proposto pela Rocketseat na Semana Omnistack 9.0. Desenvolvido com a stack React, React Native e Node.js.
   link: https://github.com/filipezz/aircnc
 
 - title: Twitter Bot
-  subtitle: Um bot que tweeta o cardápio do Restaurante Universitário UFRJ regularmente
+  subtitle: Um bot que tweeta o cardápio do Restaurante Universitário UFRJ regularmente.
   link: https://github.com/filipezz/twitter-bot
+  live: https://twitter.com/cardapioUFRJ_
 
 - title: Thanos Generator
-  subtitle: Site de pesquisa por falas do Thanos e gifs relacionados
+  subtitle: Site de pesquisa por falas do Thanos e gifs relacionados.
   link: https://github.com/filipezz/thanos-generator
+  live: https://thanosgenerator.com
 
 - title: Star Wars Planets
-  subtitle: Interface que consome dados da API swapi.co/ Desafio proposto pela B2W para a vaga de Front-End
+  subtitle: Interface que consome dados da API swapi.co/ Desafio proposto pela B2W para a vaga de Front-End.
   link: https://github.com/filipezz/starwars-planets
+  live: https://starwarsplanets.netlify.com/
 
 - title: Site Responsivo
   subtitle: Um simples site feito com Bootstrap
   link: https://github.com/filipezz/Site-responsivo
+
+- title: Carousel
+  subtitle: Um carousel feito em react sem ajuda de  outras libs externas.Desafio proposto pela Codezone para vaga Front-end.
+  link: https://github.com/filipezz/desafio-codezone
+  live: https://codezone-challenge.netlify.com/

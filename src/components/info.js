@@ -4,6 +4,7 @@ import {
   FaTwitter as Twitter,
   FaGithub as Github,
   FaEnvelope as Mail,
+  FaLinkedin as Linkedin,
 } from "react-icons/fa"
 
 export default function info() {
@@ -26,8 +27,8 @@ export default function info() {
         Desenvolvedor Front-end.{" "}
         <span style={{ color: "#6272a4" }}>// Às vezes Back-end 😁</span>
         <br />
-        Apaixonado por inovação e tecnologia e criar coisas que facilitam a vida
-        das pessoas.
+        Apaixonado por inovação e tecnologia e soluções coisas que facilitam a
+        vida das pessoas.
         <br />
         Entusiasta de Javascript e Node. Sempre procurando alguma forma de botar
         o que aprendo em prática.
@@ -45,6 +46,12 @@ export default function info() {
         </a>
         <a className="mr-5 icon" href="mailto://filipezmarron@gmail.com">
           <Mail />
+        </a>
+        <a
+          className="mr-5 icon"
+          href="https://www.linkedin.com/in/filipemarron/"
+        >
+          <Linkedin />
         </a>
       </div>
     </div>
