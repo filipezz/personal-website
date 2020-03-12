@@ -26,7 +26,7 @@ export default function info() {
       >
         Desenvolvedor Fullstack.{" "}
         <br />
-        Apaixonado por desenvolver soluções coisas que facilitam a
+        Apaixonado por desenvolver soluções que facilitam a
         vida das pessoas.
         <br />
         Entusiasta de Javascript e Node. Sempre procurando alguma forma de botar
