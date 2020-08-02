@@ -5,9 +5,11 @@ module.exports = {
     author: `Filipe Marron`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-transition-link`,
     `gatsby-plugin-netlify`,
+    `gatsby-plugin-scroll-reveal`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -26,7 +28,7 @@ module.exports = {
         background_color: `#282a36`,
         theme_color: `#282a36	`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/gatsby-icon.png`, 
       },
     },
     `gatsby-transformer-yaml`,

@@ -1,5 +1,5 @@
 import React from "react"
-
+import styled from 'styled-components'
 import {
   FaTwitter as Twitter,
   FaGithub as Github,
@@ -9,19 +9,19 @@ import {
 
 export default function info() {
   return (
-    <div className="container">
-      <div className="my-5"></div>
-      <div className="display-3">
+    <Container >
+      
+      <Title >
         <span style={{ color: "white" }}>Olá, eu sou o </span> <br />
         &#40;&#123;<span style={{ color: "#ff992c" }}> Filipe </span>
         &#125;&#41;
-      </div>
-      <div className="h1 code mt-4 mb-3" style={{ color: "#8be9fd	" }}>
+      </Title>
+      <ModuleExports  style={{ color: "#8be9fd	" }}>
         module.exports <span style={{ color: "#ff79c6" }}>= </span>
         <span style={{ color: "white" }}>{"{"}</span>
-      </div>
-      <div
-        className="h4 mx-5 my-4 text-justify info"
+      </ModuleExports>
+      <Code
+        
         style={{ color: "#d3d3d3	" }}
       >
         Desenvolvedor Fullstack.{" "}
@@ -34,25 +34,30 @@ export default function info() {
         <br />
         Sou um eterno estudante que adora programar, adora aprender e adora
         compartilhar o que sabe. 🤖
-      </div>
-      <div className="h1 code mt-2 mb-3">{"}"}</div>
-      <div className="h1 mt-5 mb-5 footer ">
-        <a className="mr-5 icon" href="https://twitter.com/filipeez">
-          <Twitter />
-        </a>
-        <a className="mr-5 icon" href="https://github.com/filipezz">
-          <Github />
-        </a>
-        <a className="mr-5 icon" href="mailto://filipezmarron@gmail.com">
-          <Mail />
-        </a>
-        <a
-          className="mr-5 icon"
-          href="https://www.linkedin.com/in/filipemarron/"
-        >
-          <Linkedin />
-        </a>
-      </div>
-    </div>
+      </Code>
+      <span >{"}"}</span>
+      
+    </Container>
   )
 }
+const Container = styled.div`
+
+>span{
+  font-size:3rem;
+}
+
+
+}
+`
+
+const Title = styled.div`
+font-size:4.5rem;
+`
+const ModuleExports = styled.div`
+font-size:3rem;
+`
+const Code = styled.div`
+font-size: 1.4rem;
+text-align:justify;
+margin:0 2em;
+`

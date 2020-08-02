@@ -1,99 +1,23 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins|Source+Code+Pro&display=swap");
 
 html {
-  background-color: #282a36 !important;
-  color: #fff !important;
-  /* font-size: 2em; */
-  font-family: "Poppins", sans-serif !important;
+  background-color: #282a36 ;
+  color: #fff ;
+  
+  font-family: "Poppins", sans-serif ;
 }
 
 body {
-  background-color: #282a36 !important;
-  color: #fff !important;
-  font-size: 20px !important;
-  font-family: "Poppins", sans-serif !important;
+  background-color: #282a36 ;
+  color: #fff ;
+  font-size: 20px ;
+  font-family: "Poppins", sans-serif ;
 }
 a {
-  color: #6272a4 !important;
+  color: #6272a4 ;
 }
 a:hover {
-  text-decoration: none !important;
-  color: #4372ff !important;
+  text-decoration: none ;
+  color: #4372ff ;
 }
 
-.code {
-  font-family: "Source Code Pro", monospace;
-}
-
-.info {
-  line-height: 1.4;
-  width: 85%;
-}
-
-.social {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white !important;
-}
-
-.icon {
-  height: 30px;
-
-  color: #fff;
-}
-
-.icon:hover {
-  transform: scale(1.5);
-  color: #ff8a00;
-}
-
-.card {
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  transition: 0.3s ease-in-out;
-  background-color: #324359 !important;
-}
-
-.card p {
-  font-size: 0.7em;
-  color: #ccc !important;
-}
-
-.card a {
-  font-size: 0.7em;
-  color: #50fa7b !important;
-}
-
-.card:hover {
-  transform: scale(1.04);
-}
-.links {
-  display: flex;
-  justify-content: space-between;
-}
-
-@media (max-width: 500px) {
-  .display-3 {
-    font-size: 3.4rem !important;
-  }
-  .code {
-    font-size: 1.9rem !important;
-  }
-  .info {
-    font-size: 1.3rem !important;
-  }
-  .ml-5,
-  .mx-5 {
-    margin-left: 1.2rem !important;
-  }
-  .footer {
-    display: flex;
-    margin-bottom: 10px;
-  }
-  .card p {
-    font-size: 1.1rem !important;
-  }
-  .card a {
-    font-size: 0.9em;
-  }
-}
